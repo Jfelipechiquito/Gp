@@ -2010,7 +2010,7 @@
   "resolved" "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   "version" "1.4.0"
 
-"next@12.3.2":
+"next@^12.3.2":
   "integrity" "sha512-orzvvebCwOqaz1eA5ZA0R5dbKxqtJyw7yeig7kDspu6p8OrplfyelzpvMHcDTKscv/l0nn/0l0v3mSsE8w4k7A=="
   "resolved" "https://registry.npmjs.org/next/-/next-12.3.2.tgz"
   "version" "12.3.2"
